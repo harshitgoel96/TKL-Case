@@ -30,5 +30,6 @@ G - Any 1mm+
 \- 13x M3 Flathead screws. Length should be between (Total thickness - 7)mm to (Total thickness - 12)mm
 
 #For GON
-\- ONLY MOUNTING PLATE HAS BEEN ADDED CURRENTLY
-\- This is just a mockup made by superimposing the PCB over the standard TKL Laout and shiffting the the Fn row to required distence
+\- ONLY MOUNTING PLATE HAS BEEN ADDED CURRENTLY.
+
+\- This is just a mockup made by superimposing the PCB over the standard TKL Laout and shiffting the the Fn row to required distence.
